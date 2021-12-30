@@ -5,7 +5,7 @@
     "extension_author": "@moloch--",
     "original_author": "@boku7",
     "repo_url": "https://github.com/sliverarmory/injectEtwBypass",
-    "help": "",
+    "help": "Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)",
     "depends_on": "coff-loader",
     "entrypoint": "go",
     "files": [
