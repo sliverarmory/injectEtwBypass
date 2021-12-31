@@ -12,7 +12,7 @@
       {
         "os": "windows",
         "arch": "amd64",
-        "path": "injectEtwBypass.x64.o"
+        "path": "injectEtwBypass.amd64.o"
       }
     ],
     "arguments": [
